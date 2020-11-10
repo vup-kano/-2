@@ -1,5 +1,5 @@
 package homewo;
-import java.awt.Rectangle;
+//import java.awt.Rectangle;
 public class TestCircleRectangle {
 
 	public static void main(String[] args) {
